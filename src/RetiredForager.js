@@ -16,4 +16,4 @@ RetiredForagerBee.prototype.forage = function() {
 RetiredForagerBee.prototype.gamble = function(treasure) {
 	this.treasureChest.push(treasure);
 }
-RetiredForagerBee.prototype.constructor = RetiredForagerBee;
+RetiredForagerBee.prototype.constructor = RetiredForagerBee;//
